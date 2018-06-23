@@ -23,7 +23,7 @@ module.exports.run = async (bot, message, args) => {
             message.channel.send("No images found to that criteria. ;-;");
         }
     } else {
-        message.channel.send(":exclamation:You have to be on a **nsfw** channel to use this command.");
+        message.channel.send(":exclamation:You have to be on a **NSFW** channel to use this command.");
     }
 }
 
