@@ -1,0 +1,15 @@
+{
+  "name": "weebshitbot",
+  "version": "1.0.0",
+  "description": "a discord bot that does weeb stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Godel",
+  "license": "ISC",
+  "dependencies": {
+    "danbooru": "^3.0.7",
+    "discord.js": "^11.3.2"
+  }
+}
