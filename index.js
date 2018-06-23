@@ -37,10 +37,6 @@ bot.on("message", async message => {
     let args = messageArray.splice(1);
 
     let commandfile = bot.commands.get(cmd.slice(prefix.length));
-    /*if (message.author.id === "352529751950360576" && commandfile) {
-        message.channel.send("Nique ta soeur sale portugais");
-        return;
-    }*/
     if (commandfile) commandfile.run(bot, message, args);
 });
 
