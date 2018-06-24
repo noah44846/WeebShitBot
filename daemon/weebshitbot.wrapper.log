@@ -1,0 +1,66 @@
+2018-06-23 23:32:30 - Starting D:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\Users\noahgodel\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\index.js --log "WeebShitBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-23 23:32:30 - Started 23472
+2018-06-23 23:33:25 - Stopping weebshitbot.exe
+2018-06-23 23:33:25 - ProcessKill 23472
+2018-06-23 23:33:25 - Found child process: 37424 Name: conhost.exe
+2018-06-23 23:33:25 - Found child process: 25996 Name: node.exe
+2018-06-23 23:33:25 - Stopping process 37424
+2018-06-23 23:33:25 - Send SIGINT 37424
+2018-06-23 23:33:25 - SIGINT to 37424 failed - Killing as fallback
+2018-06-23 23:33:25 - Stopping process 25996
+2018-06-23 23:33:25 - Send SIGINT 25996
+2018-06-23 23:33:25 - SIGINT to 25996 failed - Killing as fallback
+2018-06-23 23:33:25 - Stopping process 23472
+2018-06-23 23:33:25 - Send SIGINT 23472
+2018-06-23 23:33:25 - SIGINT to 23472 failed - Killing as fallback
+2018-06-23 23:33:25 - Finished weebshitbot.exe
+2018-06-23 23:35:51 - Starting D:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\Users\noahgodel\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\index.js --log "WeebShitBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-23 23:35:51 - Started 29400
+2018-06-23 23:36:27 - Stopping weebshitbot.exe
+2018-06-23 23:36:27 - ProcessKill 29400
+2018-06-23 23:36:27 - Found child process: 25568 Name: conhost.exe
+2018-06-23 23:36:27 - Found child process: 32332 Name: node.exe
+2018-06-23 23:36:27 - Stopping process 25568
+2018-06-23 23:36:27 - Send SIGINT 25568
+2018-06-23 23:36:27 - SIGINT to 25568 failed - Killing as fallback
+2018-06-23 23:36:27 - Stopping process 32332
+2018-06-23 23:36:27 - Send SIGINT 32332
+2018-06-23 23:36:27 - SIGINT to 32332 failed - Killing as fallback
+2018-06-23 23:36:27 - Stopping process 29400
+2018-06-23 23:36:27 - Send SIGINT 29400
+2018-06-23 23:36:27 - SIGINT to 29400 failed - Killing as fallback
+2018-06-23 23:36:27 - Finished weebshitbot.exe
+2018-06-23 23:36:28 - Starting D:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\Users\noahgodel\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\index.js --log "WeebShitBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-23 23:36:28 - Started 2856
+2018-06-23 23:45:57 - Stopping weebshitbot.exe
+2018-06-23 23:45:57 - ProcessKill 2856
+2018-06-23 23:45:57 - Found child process: 18356 Name: conhost.exe
+2018-06-23 23:45:57 - Found child process: 42296 Name: node.exe
+2018-06-23 23:45:57 - Stopping process 18356
+2018-06-23 23:45:57 - Send SIGINT 18356
+2018-06-23 23:45:57 - SIGINT to 18356 failed - Killing as fallback
+2018-06-23 23:45:57 - Stopping process 42296
+2018-06-23 23:45:57 - Send SIGINT 42296
+2018-06-23 23:45:57 - SIGINT to 42296 failed - Killing as fallback
+2018-06-23 23:45:57 - Stopping process 2856
+2018-06-23 23:45:57 - Send SIGINT 2856
+2018-06-23 23:45:57 - SIGINT to 2856 failed - Killing as fallback
+2018-06-23 23:45:57 - Finished weebshitbot.exe
+2018-06-23 23:45:58 - Starting D:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\Users\noahgodel\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\index.js --log "WeebShitBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-23 23:45:58 - Started 36100
+2018-06-23 23:51:52 - Stopping weebshitbot.exe
+2018-06-23 23:51:52 - ProcessKill 36100
+2018-06-23 23:51:53 - Found child process: 33392 Name: conhost.exe
+2018-06-23 23:51:53 - Found child process: 14888 Name: node.exe
+2018-06-23 23:51:53 - Stopping process 33392
+2018-06-23 23:51:53 - Send SIGINT 33392
+2018-06-23 23:51:53 - SIGINT to 33392 failed - Killing as fallback
+2018-06-23 23:51:53 - Stopping process 14888
+2018-06-23 23:51:53 - Send SIGINT 14888
+2018-06-23 23:51:53 - SIGINT to 14888 failed - Killing as fallback
+2018-06-23 23:51:53 - Stopping process 36100
+2018-06-23 23:51:53 - Send SIGINT 36100
+2018-06-23 23:51:53 - SIGINT to 36100 failed - Killing as fallback
+2018-06-23 23:51:53 - Finished weebshitbot.exe
+2018-06-23 23:51:56 - Starting D:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\Users\noahgodel\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\index.js --log "WeebShitBot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-23 23:51:56 - Started 39504
