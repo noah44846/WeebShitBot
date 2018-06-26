@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
             const post = posts[index]
             const url = booru.url(post.file_url);
             let embed = new Discord.RichEmbed()
-            .setTitle("Here you go (" + index + ") :")
+            .setTitle("Here you go :")
             .setColor("#bababa")
             .setImage(url);
 

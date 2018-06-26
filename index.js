@@ -36,7 +36,8 @@ bot.on("message", async message => {
     let cmd = messageArray[0];
     let args = messageArray.splice(1);
 
-    let commandfile = bot.commands.get(cmd.slice(prefix.length));
+    let commandfile;
+    if (cmd.splice(0, prefix.length) == prefix) commandfile = bot.commands.get(cmd.slice(prefix.length));
     if (commandfile) commandfile.run(bot, message, args);
 });
 

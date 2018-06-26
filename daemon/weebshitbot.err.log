@@ -28,3 +28,113 @@ Error: Unhandled "error" event. ([object Object])
     at WebSocket.finalize (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\websocket.js:206:20)
     at emitOne (events.js:116:13)
     at TLSSocket.emit (events.js:211:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:374:17)
+    at WebSocket.onError (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at _receiver.cleanup (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\websocket.js:211:14)
+    at Receiver.cleanup (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\receiver.js:557:13)
+    at WebSocket.finalize (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\websocket.js:206:20)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: Cannot read property 'file_url' of undefined
+    at Object.module.exports.run (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\commands\booru.js:14:40)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+events.js:188
+      throw err;
+      ^
+
+Error: Unhandled "error" event. ([object Object])
+    at Client.emit (events.js:186:19)
+    at WebSocketConnection.onError (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:374:17)
+    at WebSocket.onError (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\event-target.js:128:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at _receiver.cleanup (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\websocket.js:211:14)
+    at Receiver.cleanup (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\receiver.js:557:13)
+    at WebSocket.finalize (D:\Users\noahgodel\Desktop\tech_stuff\prog_stuff\DiscordBot\WeebShitBot\node_modules\ws\lib\websocket.js:206:20)
+    at emitOne (events.js:116:13)
+    at TLSSocket.emit (events.js:211:7)
